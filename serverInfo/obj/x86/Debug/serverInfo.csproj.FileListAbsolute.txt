@@ -1,0 +1,9 @@
+D:\Work\serverInfo\serverInfo\obj\x86\Debug\serverInfo.Properties.Resources.resources
+D:\Work\serverInfo\serverInfo\bin\Debug\serverInfo.exe
+D:\Work\serverInfo\serverInfo\bin\Debug\serverInfo.pdb
+D:\Work\serverInfo\serverInfo\obj\x86\Debug\serverInfo.exe
+D:\Work\serverInfo\serverInfo\obj\x86\Debug\serverInfo.pdb
+D:\Work\serverInfo\serverInfo\bin\Debug\Newtonsoft.Json.dll
+D:\Work\serverInfo\serverInfo\obj\x86\Debug\serverInfo.csproj.GenerateResource.Cache
+D:\Work\serverInfo\serverInfo\obj\x86\Debug\serverInfo.Main.resources
+D:\Work\serverInfo\serverInfo\obj\x86\Debug\serverInfo.csprojResolveAssemblyReference.cache
